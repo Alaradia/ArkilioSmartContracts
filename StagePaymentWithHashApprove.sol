@@ -2,7 +2,7 @@
 Issues
   Upload hash of origional document
   Record block number of each transaciton
-  Get your oney our of the contract
+  Get your money out of the contract
   kill contract
 Optional features
   Send invoices for portions individual stages
